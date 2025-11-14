@@ -21,7 +21,7 @@ The app provides a clean frameless UI with smooth animations, allowing users to 
 [App Screenshot](assets/Screenshot.png)
 
 ---
-**Download** : 
+**Download** : https://github.com/silent-cs/TimerPro/releases/tag/v1.0.0
 
 ##  Technologies Used
 
